@@ -8,9 +8,6 @@ let sumOfArray = (arrayOfNumbers) => {
     return sum;
 }
 
-// let myArray = [1, 2, 3, 4];
-// console.log(sumOfArray(myArray));
-
 module.exports = {
     sumOfArray: sumOfArray
 }
